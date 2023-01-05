@@ -38,3 +38,11 @@
 // console.log(ofAge);
 
 // age = 100;
+
+const person = {
+  first: "Spencer",
+  last: "Holladay",
+  age: 100,
+};
+
+console.log(person);
