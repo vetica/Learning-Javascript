@@ -9,13 +9,33 @@
 
 // go();
 
-function isCool(name) {
-  let cool;
-  if (name === 'spencer') {
-    cool = true;
-  }
-  console.log(cool);
-  return cool;
+// function isCool(name) {
+//   let cool;
+//   if (name === 'spencer') {
+//     cool = true;
+//   }
+//   console.log(cool);
+//   return cool;
+// }
+
+// isCool('spencer');
+
+const dog = 'cayde';
+
+function logDog() {
+  console.log(dog);
 }
 
-isCool('spencer');
+function go() {
+  const dog = 'tesla';
+  logDog();
+}
+
+go();
+
+function sayHi(name) {
+  function yell() {
+    console.log(name.toUpperCase());
+  }
+  yell();
+}
