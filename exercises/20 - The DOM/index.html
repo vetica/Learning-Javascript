@@ -9,6 +9,7 @@
   </head>
 
   <body>
+    <img class="nice" src="https://source.unsplash.com/random/300x300" />
     <div class="items">
       <div class="item">
         <img src="https://source.unsplash.com/random/300x300" />
@@ -24,8 +25,23 @@
       </div>
       <article class="item"></article>
       <h2 id="wes">I am an article</h2>
-      <p>This is how many pizza I ate!</p>
+      <p class="pizza">This is how many pizza I ate.</p>
     </div>
+    <style>
+      h2 span {
+        display: none;
+      }
+      img {
+        transition: all 0.2s;
+      }
+
+      .round {
+        border-radius: 50%;
+        transform: rotate(1turn);
+        box-shadow: 0 0 10px black;
+      }
+    </style>
     <script src="./the-dom.js"></script>
+    <script src="./creating.js"></script>
   </body>
 </html>
