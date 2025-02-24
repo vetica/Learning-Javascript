@@ -1,17 +1,12 @@
-![](https://res.cloudinary.com/wesbos/image/upload/v1574876851/BJS/BJS-Social-Share.png)
+# Learning JS tasks
 
-# Beginner JavaScript
+This repository contains a collection of random tasks that I completed while learning JavaScript.
+These tasks cover a variety of concepts and techniques in JavaScript programming.
 
-These are the starter files and solutions to the [Beginner JavaScript](https://BeginnerJavaScript.com) course
+# Technologies Used
 
-## Function Definition Diagram
+The tasks are implemented using the following technologies:
 
-![Description of javaScript function](function-definition.jpg)
-
-## Community Resources
-
-Please feel free to add your blog post, videos, notes, or anything else related to the course :)
-
-- [Soumya Ranjan Mohanty](https://github.com/geekysrm)'s [Github repo](https://github.com/geekysrm/javascript-notes) with notes and lessons learnt, along with [full notes here](https://notes.soumya.dev/javascript).
-- [Linda has documented all her excercises on Codepen](https://twitter.com/lindakatcodes/status/1331702581220020225)
-- [Cesar Gomez](https://github.com/CsarGomez) have a [GitHub repo](https://github.com/CsarGomez/beginnersJavascriptNotes) with notes for all the modules completed including exercises in [CopePen](https://codepen.io/collection/XjJQYz) other modules will be uploaded a soon as i finished each one
+-   JavaScript: All tasks are written in JavaScript, utilizing the language's features, syntax, and libraries.
+-   HTML: Some tasks may have an associated HTML file for demonstration or interaction purposes.
+-   CSS: If applicable, CSS may be used to style the HTML elements in certain tasks.
